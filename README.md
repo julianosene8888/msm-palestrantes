@@ -18,7 +18,7 @@ Fotos: [1](fotos/manu-guimaraes-1.jpg) · [2](fotos/manu-guimaraes-2.jpg) · [3]
 ### Michelle Ziade
 **Tema:** House flipping como estratégia para construção patrimonial
 
-Michelle Ziade é arquiteta e urbanista, empresária e estrategista imobiliária, com 18 anos de experiência nos setores de arquitetura, construção e mercado imobiliário. Desde 2012, atua na compra, transformação e venda de imóveis, usando a arquitetura como ferramenta de valorização e geração de patrimônio. Criadora do Método Casa Transforma, mostra como identificar oportunidades, reduzir riscos e usar o house flipping para construir renda e patrimônio.
+Michelle Ziade é arquiteta e urbanista formada pela PUC Minas, empresária e especialista em estratégia imobiliária e house flipping. Com quase 20 anos de experiência e atuação no empreendedorismo imobiliário desde 2012, une arquitetura, construção e visão de negócio para identificar oportunidades e transformar imóveis em patrimônio. Seu trabalho abrange a análise de viabilidade, a compra, o projeto, a reforma e a venda, orientando investidores e proprietários em decisões que conectam potencial de valorização, custos e resultado financeiro.
 
 Foto: [1](fotos/michelle-ziade-1.png)
 
