@@ -1,6 +1,8 @@
-# #notrecho Tiradentes: palestrantes
+# Minas Summit: palestrantes
 
-Fotos e minibios dos palestrantes e das startups do **Minas Summit #notrecho Tiradentes**, no Fórum do Amanhã, em 25/11/2026.
+## #notrecho Tiradentes, 25/11/2026
+
+Fotos e minibios dos palestrantes e das startups do **Minas Summit #notrecho Tiradentes**, no Fórum do Amanhã.
 
 Uso: divulgação do evento (banners, redes sociais, imprensa). Baixe as fotos da pasta [`fotos`](fotos) e copie a minibio. Os textos e as fotos foram enviados pelos próprios palestrantes para a divulgação do evento.
 
@@ -16,7 +18,9 @@ Fotos: [1](fotos/manu-guimaraes-1.jpg) · [2](fotos/manu-guimaraes-2.jpg) · [3]
 ### Michelle Ziade
 **Tema:** House flipping como estratégia para construção patrimonial
 
-Foto e minibio em breve.
+Michelle Ziade é arquiteta e urbanista, empresária e estrategista imobiliária, com 18 anos de experiência nos setores de arquitetura, construção e mercado imobiliário. Desde 2012, atua na compra, transformação e venda de imóveis, usando a arquitetura como ferramenta de valorização e geração de patrimônio. Criadora do Método Casa Transforma, mostra como identificar oportunidades, reduzir riscos e usar o house flipping para construir renda e patrimônio.
+
+Foto: [1](fotos/michelle-ziade-1.png)
 
 ### Marcos Knosel
 **Tema:** A importância de um ecossistema
