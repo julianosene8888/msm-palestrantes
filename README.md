@@ -25,7 +25,9 @@ Foto: [1](fotos/michelle-ziade-1.png)
 ### Marcos Knosel
 **Tema:** A importância de um ecossistema
 
-Foto e minibio em breve.
+Marcos Knosel é Diretor de Expansão da FCJ Venture Builder, venture builder com 344 startups na base, e participa da direção do Minas Summit.
+
+Foto em breve.
 
 ### Juliano Sene
 **Tema:** Porque me sinto atrasado na era de I.A
