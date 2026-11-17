@@ -26,7 +26,7 @@ Foto e minibio em breve.
 ### Juliano Sene
 **Tema:** Porque me sinto atrasado na era de I.A
 
-Minibio em breve.
+Juliano Sene é CEO do Minas Summit, encontro de inovação e negócios de Minas Gerais. Construiu a carreira em infraestrutura de telecom e cibersegurança e é Diretor Secretário do ISACA Belo Horizonte Chapter. Veio da comunidade de software livre, onde palestra desde o início da carreira.
 
 Foto: [1](fotos/juliano-sene-1.jpg)
 
