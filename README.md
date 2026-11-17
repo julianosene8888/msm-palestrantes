@@ -26,7 +26,9 @@ Foto e minibio em breve.
 ### Juliano Sene
 **Tema:** Porque me sinto atrasado na era de I.A
 
-Foto e minibio em breve.
+Minibio em breve.
+
+Foto: [1](fotos/juliano-sene-1.jpg)
 
 ## Startups
 
