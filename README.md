@@ -45,6 +45,15 @@ Bruno Queiroz é optometrista com anos de atendimento clínico e empreendedor em
 
 Foto: [1](fotos/bruno-queiroz-1.jpg)
 
+### Círcul
+![Círcul](fotos/circul-logo.png)
+
+**Representante:** Luiz Fellipe Martins Fernandes (Lufell)
+
+Lufell é designer, educador socioambiental e fundador da Círcul (@soucircul), iniciativa sediada em Belo Horizonte que ressignifica resíduos urbanos e industriais por meio da economia circular e do design regenerativo. Sua trajetória une rigor técnico, sensibilidade estética e articulação comunitária para tirar a sustentabilidade do discurso abstrato e transformá-la em impacto concreto no território. Sob sua condução, a força da Círcul se manifesta na integração de três frentes: Gestão de Resíduos: projetos de inteligência operacional e aproveitamento econômico; Socioeducacional: vivências formativas e oficinas mão na massa que democratizam o conhecimento ambiental, e Arte: materialização da circularidade em luminárias autorais, colagens analógicas e ocupações culturais que provocam reflexão, beleza e consciência coletiva.
+
+Foto: [1](fotos/luiz-fellipe-1.jpg) · Logo: [PNG](fotos/circul-logo.png)
+
 ### InnoVec
 **Representante:** Juliana Barbosa Saliba
 
