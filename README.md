@@ -38,7 +38,17 @@ Foto: [1](fotos/juliano-sene-1.jpg)
 
 ## Startups
 
-InnoVec e Soph.ia. Logo e minibio em breve.
+### Soph.ia
+**Representante:** Bruno Queiroz
+
+Bruno Queiroz é optometrista com anos de atendimento clínico e empreendedor em saúde digital. Da experiência no consultório, fundou uma plataforma de gestão hoje usada por clínicas de optometria e oftalmologia em todo o Brasil e, mais recentemente, a Soph.IA, exame de vista pelo celular e oferecida como benefício por vida a empresas e operadoras. Atua na fronteira entre a clínica e a tecnologia, com foco em levar o exame de vista a quem hoje adia por falta de tempo e acesso.
+
+Foto: [1](fotos/bruno-queiroz-1.jpg)
+
+### InnoVec
+**Representante:** Juliana Barbosa Saliba
+
+Logo e minibio em breve.
 
 ---
 Realização Minas Summit S/A · Uma empresa da FCJ Group
