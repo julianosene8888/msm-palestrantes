@@ -54,9 +54,25 @@ Lufell é designer, educador socioambiental e fundador da Círcul (@soucircul), 
 
 Foto: [1](fotos/luiz-fellipe-1.jpg) · Logo: [PNG](fotos/circul-logo.png)
 
-## Cards de exemplo para redes sociais
+## Cards criativos: carrossel e Reels animado
 
-Modelos prontos para você divulgar a sua participação no #notrecho Tiradentes. Clique na imagem para baixar em tamanho real, na pasta [`cards`](cards).
+Para cada pessoa, a pasta [`criativos`](criativos) tem:
+
+- **Carrossel de 6 slides** (1080 x 1350 px): capa com a foto, a palestra, quem é, a data, o #notrecho e o convite. A estrada do #notrecho atravessa os slides, então ao arrastar ela continua sem cortes. Serve para o Instagram e para o LinkedIn: o PDF do carrossel é o formato "documento" do LinkedIn.
+- **Reels animado** (1080 x 1920 px, 9 segundos, MP4 sem som): a foto se abre, o nome entra letra por letra, a palestra aparece palavra por palavra, a data gira até 25/11 e o fecho convida a marcar as nossas redes. O texto fica dentro da zona segura do aplicativo. Coloque o áudio na hora de postar.
+
+| Quem | Carrossel (capa) | Reels animado (MP4) | LinkedIn (PDF) |
+|---|---|---|---|
+| Manu Guimarães | [<img src="criativos/manu-guimaraes/carrossel-1.jpg" width="150">](criativos/manu-guimaraes) | [<img src="criativos/manu-guimaraes/reels-capa.jpg" width="100">](criativos/manu-guimaraes/reels-animado.mp4) | [carrossel-linkedin.pdf](criativos/manu-guimaraes/carrossel-linkedin.pdf) |
+| Michelle Ziade | [<img src="criativos/michelle-ziade/carrossel-1.jpg" width="150">](criativos/michelle-ziade) | [<img src="criativos/michelle-ziade/reels-capa.jpg" width="100">](criativos/michelle-ziade/reels-animado.mp4) | [carrossel-linkedin.pdf](criativos/michelle-ziade/carrossel-linkedin.pdf) |
+| Marcos Knosel | [<img src="criativos/marcos-knosel/carrossel-1.jpg" width="150">](criativos/marcos-knosel) | [<img src="criativos/marcos-knosel/reels-capa.jpg" width="100">](criativos/marcos-knosel/reels-animado.mp4) | [carrossel-linkedin.pdf](criativos/marcos-knosel/carrossel-linkedin.pdf) |
+| Juliano Sene | [<img src="criativos/juliano-sene/carrossel-1.jpg" width="150">](criativos/juliano-sene) | [<img src="criativos/juliano-sene/reels-capa.jpg" width="100">](criativos/juliano-sene/reels-animado.mp4) | [carrossel-linkedin.pdf](criativos/juliano-sene/carrossel-linkedin.pdf) |
+| Bruno Queiroz (Soph.ia) | [<img src="criativos/bruno-queiroz/carrossel-1.jpg" width="150">](criativos/bruno-queiroz) | [<img src="criativos/bruno-queiroz/reels-capa.jpg" width="100">](criativos/bruno-queiroz/reels-animado.mp4) | [carrossel-linkedin.pdf](criativos/bruno-queiroz/carrossel-linkedin.pdf) |
+| Luiz Fellipe, Lufell (Círcul) | [<img src="criativos/luiz-fellipe-lufell/carrossel-1.jpg" width="150">](criativos/luiz-fellipe-lufell) | [<img src="criativos/luiz-fellipe-lufell/reels-capa.jpg" width="100">](criativos/luiz-fellipe-lufell/reels-animado.mp4) | [carrossel-linkedin.pdf](criativos/luiz-fellipe-lufell/carrossel-linkedin.pdf) |
+
+## Modelos simples (imagem única)
+
+Modelos de imagem única para divulgar a sua participação no #notrecho Tiradentes. Clique na imagem para baixar em tamanho real, na pasta [`cards`](cards).
 
 - **Feed do Instagram:** 1080 x 1350 px (4:5), fundo verde.
 - **Reels e stories:** 1080 x 1920 px (9:16), fundo verde noite. O texto fica dentro da zona segura: 250 px livres no topo e 340 px na base, para a interface do aplicativo não cobrir nada.
