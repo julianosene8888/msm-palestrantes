@@ -54,6 +54,10 @@ Lufell é designer, educador socioambiental e fundador da Círcul (@soucircul), 
 
 Foto: [1](fotos/luiz-fellipe-1.jpg) · Logo: [PNG](fotos/circul-logo.png)
 
+## Postagens das nossas redes
+
+Peças para as contas do Minas Summit, da FCJ e do Fórum do Amanhã, com calendário e legendas: pasta [`postagens`](postagens).
+
 ## Cards criativos: carrossel e Reels animado
 
 Para cada pessoa, a pasta [`criativos`](criativos) tem:
@@ -92,10 +96,10 @@ Quer o card com outra foto ou outro texto? Peça à equipe do Minas Summit.
 ### Legenda de exemplo
 
 **Instagram (feed e Reels):**
-> Vou estar no #notrecho Tiradentes, em 25/11, no Fórum do Amanhã, com a palestra "[tema]". Vem comigo. Nada disso é ficção. @minassummit @fcj #notrecho #minassummit
+> Vou estar no #notrecho Tiradentes, em 25/11, no Fórum do Amanhã, com a palestra "[tema]". Vem comigo. Nada disso é ficção. @minassummit @fcjgroupbr @forumdoamanha @justinofcj #notrecho #minassummit
 
 **LinkedIn:**
-> No dia 25/11, levo ao Fórum do Amanhã, em Tiradentes (MG), a palestra "[tema]", dentro do #notrecho, a rota do Minas Summit pelas cidades de Minas. Quem estiver por lá, vamos conversar. Ingressos: [link do organizador]. @minassummit @fcj #notrecho #minassummit
+> No dia 25/11, levo ao Fórum do Amanhã, em Tiradentes (MG), a palestra "[tema]", dentro do #notrecho, a rota do Minas Summit pelas cidades de Minas. Quem estiver por lá, vamos conversar. Ingressos: [link do organizador]. @minassummit @fcjgroupbr @forumdoamanha @justinofcj #notrecho #minassummit
 
 ### Roteiro de exemplo para Reels (15 a 20 segundos)
 
@@ -118,7 +122,7 @@ Logos em [`marca`](marca): vertical (padrão) e símbolo (avatar e selo), em bra
 - **Nome:** escreva "Minas Summit" em texto corrido, nunca em caixa alta. "Festival" é o subtítulo do nome, não o nome oficial.
 - **Frase da marca:** "Nada disso é ficção".
 - **Assinatura:** "Realização Minas Summit S/A · Uma empresa da FCJ Group".
-- **Redes:** marque todas as nossas redes: @minassummit e @fcj (no LinkedIn, as páginas do Minas Summit e da FCJ). Use #notrecho e #minassummit. Fotos de edições anteriores só com autorização da FCJ; use as suas próprias fotos.
+- **Redes:** marque todas as nossas redes: @minassummit, @fcjgroupbr, @forumdoamanha e @justinofcj (CEO da FCJ Group) (no LinkedIn, os perfis e as páginas correspondentes). Use #notrecho e #minassummit. Fotos de edições anteriores só com autorização da FCJ; use as suas próprias fotos.
 
 ---
 Realização Minas Summit S/A · Uma empresa da FCJ Group
