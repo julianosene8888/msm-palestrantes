@@ -54,11 +54,6 @@ Lufell é designer, educador socioambiental e fundador da Círcul (@soucircul), 
 
 Foto: [1](fotos/luiz-fellipe-1.jpg) · Logo: [PNG](fotos/circul-logo.png)
 
-### InnoVec
-**Representante:** Juliana Barbosa Saliba
-
-Logo e minibio em breve.
-
 ## Cards de exemplo para redes sociais
 
 Modelos prontos para você divulgar a sua participação no #notrecho Tiradentes. Clique na imagem para baixar em tamanho real, na pasta [`cards`](cards).
