@@ -13,7 +13,7 @@ Uso: divulgação do evento (banners, redes sociais, imprensa). Baixe as fotos d
 
 Manu Guimarães é publicitária, empresária e especialista em viabilização de projetos por leis de incentivo e editais. À frente da Krie+ Produções Kriativas, consolidou uma trajetória de 25 anos conectando estratégia, impacto social e desenvolvimento criativo.
 
-Fotos: [1](fotos/manu-guimaraes-1.jpg) · [2](fotos/manu-guimaraes-2.jpg) · [3](fotos/manu-guimaraes-3.jpg)
+Fotos: [1](fotos/manu-guimaraes-1.jpg) · [2](fotos/manu-guimaraes-2.jpg) · [3](fotos/manu-guimaraes-3.jpg) · [4](fotos/manu-guimaraes-4.jpg)
 
 ### Michelle Ziade
 **Tema:** House flipping como estratégia para construção patrimonial
