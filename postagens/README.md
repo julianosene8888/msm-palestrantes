@@ -6,12 +6,15 @@ O #notrecho Tiradentes, em 25/11/2026, é feito em colaboração com o Fórum do
 
 ## O que tem aqui
 
+Todas as peças levam a logomarca oficial do Fórum do Amanhã como parceiro.
+
 | Arquivo | Formato | Para quê |
 |---|---|---|
 | `01-anuncio-palestrantes-slide-1.jpg` a `-8.jpg` e `01-anuncio-palestrantes-linkedin.pdf` | carrossel de 8 slides, 1080 x 1350 px | Anúncio dos 4 palestrantes e das 2 startups. A estrada do #notrecho atravessa os slides. O PDF vai como documento no LinkedIn |
 | `02-reels-jornada-animado.mp4` e `-capa.jpg` | Reels de 9 s, 1080 x 1920 px, sem som | "Não é um evento. É uma jornada." Tiradentes e a rota 2027 |
-| `03-story-d5.jpg` a `03-story-d0.jpg` | stories 1080 x 1920 px | Contagem regressiva. D-4 Manu, D-3 Michelle, D-2 Marcos, D-1 Juliano; D-0, "É hoje" |
+| `03-story-d3.jpg`, `d2-manu`, `d2-michelle`, `d1-marcos`, `d1-juliano`, `d0` | stories 1080 x 1920 px | Contagem regressiva: D-3 grupo, D-2 Manu e Michelle, D-1 Marcos e Juliano, D-0 "É hoje" |
 | `04-cartao-hoje.jpg` | feed 1080 x 1350 px | Cartão do dia 25/11, com os palestrantes |
+| `05-dia25-palestrantes-slide-1.jpg` a `-9.jpg` e `05-dia25-palestrantes-linkedin.pdf` | carrossel de 9 slides, 1080 x 1350 px | Carrossel do dia 25: "Hoje, em Tiradentes", um slide por palestrante, startups e "Quem faz" com os logos do Minas Summit e do Fórum |
 
 Os stories e o Reels respeitam a zona segura: 250 px livres no topo e 340 px na base.
 
@@ -19,15 +22,13 @@ Os stories e o Reels respeitam a zona segura: 250 px livres no topo e 340 px na 
 
 | Dia | Publicar |
 |---|---|
-| Sex 20/11 (D-5) | `01` carrossel de anúncio (colaboração @minassummit e @forumdoamanha) e story `D5` |
-| Sáb 21/11 (D-4) | Reels da Manu ([`criativos`](../criativos/manu-guimaraes)) e story `D4` |
-| Dom 22/11 (D-3) | Carrossel da Michelle e story `D3` |
-| Seg 23/11 (D-2) | Carrossel do Marcos e story `D2`. Liberada a arte do motorhome e do ônibus da Cruz Vermelha |
-| Ter 24/11 (D-1) | `02` Reels da jornada, carrossel do Juliano e story `D1` |
-| Qua 25/11 | `04` cartão "Hoje, em Tiradentes", story `D0` e stories do dia, com fotos e vídeos reais |
+| Dom 22/11 (D-3) | `01` carrossel de anúncio (colaboração @minassummit e @forumdoamanha) e story `d3` |
+| Seg 23/11 (D-2) | Carrosséis da Manu e da Michelle ([`criativos`](../criativos)) e stories `d2`. Liberada a arte do motorhome e do ônibus da Cruz Vermelha |
+| Ter 24/11 (D-1) | `02` Reels da jornada, carrosséis do Marcos e do Juliano e stories `d1` |
+| Qua 25/11 | `05` carrossel do dia, `04` cartão "Hoje, em Tiradentes" e story `d0`, com fotos e vídeos reais |
 | Qui 26/11 | Balanço do dia, com as fotos reais |
 
-Os palestrantes publicam o próprio card no mesmo dia da contagem dele, em colaboração com @minassummit. Soph.ia e Círcul seguem o mesmo formato no dia 24 e no dia 25.
+Os palestrantes publicam o próprio card no dia da contagem dele, em colaboração com @minassummit. Soph.ia e Círcul seguem o mesmo formato no dia 24 e no dia 25.
 
 ## Legendas
 
@@ -41,6 +42,9 @@ Os palestrantes publicam o próprio card no mesmo dia da contagem dele, em colab
 > No dia 25/11, o Minas Summit vai a Tiradentes (MG), em colaboração com o Fórum do Amanhã. No palco: Manu Guimarães, Michelle Ziade, Marcos Knosel e Juliano Sene, com as startups Soph.ia e Círcul. A rota 2027 segue pelas mesorregiões de Minas. Nada disso é ficção. @Minas Summit @Fórum do Amanhã @FCJ Group #notrecho #minassummit
 
 **Stories:** sem legenda. Use o adesivo de marcação para as quatro contas e, no dia 25, o adesivo de local.
+
+**Carrossel do dia 25 (`05`), Instagram e LinkedIn:**
+> Hoje, em Tiradentes. O Minas Summit em colaboração com o Fórum do Amanhã. Quem sobe ao palco: Manu Guimarães, Michelle Ziade, Marcos Knosel e Juliano Sene, com as startups Soph.ia e Círcul. Nada disso é ficção. @minassummit @forumdoamanha @fcjgroupbr @justinofcj #notrecho #minassummit
 
 **Cartão do dia (`04`):**
 > Hoje, em Tiradentes. Fórum do Amanhã, em colaboração com o Minas Summit. @minassummit @forumdoamanha @fcjgroupbr @justinofcj #notrecho #minassummit
