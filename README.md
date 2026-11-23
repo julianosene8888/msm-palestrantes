@@ -54,6 +54,10 @@ Lufell é designer, educador socioambiental e fundador da Círcul (@soucircul), 
 
 Foto: [1](fotos/luiz-fellipe-1.jpg) · Logo: [PNG](fotos/circul-logo.png)
 
+## Kit para os banners
+
+Foto, minibio e tema de cada palestrante e startup, mais os logos, para montar o layout dos banners de Tiradentes: pasta [`kit-banners`](kit-banners). O texto de cada banner está em [`CONTEUDO-DOS-BANNERS.md`](kit-banners/CONTEUDO-DOS-BANNERS.md); as fotos estão em [`kit-banners/fotos`](kit-banners/fotos) e os logos em [`kit-banners/logos`](kit-banners/logos).
+
 ## Postagens das nossas redes
 
 Peças para as contas do Minas Summit, da FCJ e do Fórum do Amanhã, com calendário e legendas: pasta [`postagens`](postagens).
