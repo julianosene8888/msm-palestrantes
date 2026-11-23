@@ -33,10 +33,10 @@ Os palestrantes publicam o próprio card no dia da contagem dele, em colaboraç�
 ## Legendas
 
 **Instagram, carrossel de anúncio (`01`):**
-> Quem sobe ao palco de Tiradentes, em 25/11, no Fórum do Amanhã: Manu Guimarães, Michelle Ziade, Marcos Knosel e Juliano Sene. Com as startups Soph.ia e Círcul. O Minas Summit em colaboração com o Fórum do Amanhã. Nada disso é ficção. @minassummit @forumdoamanha @fcjgroupbr @justinofcj #notrecho #minassummit
+> Quem sobe ao palco de Tiradentes, em 25/11, no Fórum do Amanhã: Manu Guimarães, Michelle Ziade, Marcos Knosel e Juliano Sene. Com as startups Soph.ia e Círcul. O Minas Summit em colaboração com o Fórum do Amanhã. Nada disso é ficção. @minassummit @forumdoamanha @fcjgroupbr @justinofcj @manukriemais @michelleziadearquitetura @michelleziade_ @marcosknosel @julianosene @eusoubrunoqueiroz @soucircul #notrecho #minassummit
 
 **Instagram, Reels da jornada (`02`):**
-> Não é um evento. É uma jornada. Tiradentes, em 25/11, é uma etapa própria. A rota 2027 passa por 12 etapas nas mesorregiões de Minas. Em colaboração com o Fórum do Amanhã. @minassummit @forumdoamanha @fcjgroupbr @justinofcj #notrecho #minassummit
+> Não é um evento. É uma jornada. Tiradentes, em 25/11, é uma etapa própria. A rota 2027 passa por 12 etapas nas mesorregiões de Minas. Em colaboração com o Fórum do Amanhã. @minassummit @forumdoamanha @fcjgroupbr @justinofcj @manukriemais @michelleziadearquitetura @michelleziade_ @marcosknosel @julianosene @eusoubrunoqueiroz @soucircul #notrecho #minassummit
 
 **LinkedIn (documento `01`):**
 > No dia 25/11, o Minas Summit vai a Tiradentes (MG), em colaboração com o Fórum do Amanhã. No palco: Manu Guimarães, Michelle Ziade, Marcos Knosel e Juliano Sene, com as startups Soph.ia e Círcul. A rota 2027 segue pelas mesorregiões de Minas. Nada disso é ficção. @Minas Summit @Fórum do Amanhã @FCJ Group #notrecho #minassummit
@@ -44,10 +44,10 @@ Os palestrantes publicam o próprio card no dia da contagem dele, em colaboraç�
 **Stories:** sem legenda. Use o adesivo de marcação para as quatro contas e, no dia 25, o adesivo de local.
 
 **Carrossel do dia 25 (`05`), Instagram e LinkedIn:**
-> Hoje, em Tiradentes. O Minas Summit em colaboração com o Fórum do Amanhã. Quem sobe ao palco: Manu Guimarães, Michelle Ziade, Marcos Knosel e Juliano Sene, com as startups Soph.ia e Círcul. Nada disso é ficção. @minassummit @forumdoamanha @fcjgroupbr @justinofcj #notrecho #minassummit
+> Hoje, em Tiradentes. O Minas Summit em colaboração com o Fórum do Amanhã. Quem sobe ao palco: Manu Guimarães, Michelle Ziade, Marcos Knosel e Juliano Sene, com as startups Soph.ia e Círcul. Nada disso é ficção. @minassummit @forumdoamanha @fcjgroupbr @justinofcj @manukriemais @michelleziadearquitetura @michelleziade_ @marcosknosel @julianosene @eusoubrunoqueiroz @soucircul #notrecho #minassummit
 
 **Cartão do dia (`04`):**
-> Hoje, em Tiradentes. Fórum do Amanhã, em colaboração com o Minas Summit. @minassummit @forumdoamanha @fcjgroupbr @justinofcj #notrecho #minassummit
+> Hoje, em Tiradentes. Fórum do Amanhã, em colaboração com o Minas Summit. @minassummit @forumdoamanha @fcjgroupbr @justinofcj @manukriemais @michelleziadearquitetura @michelleziade_ @marcosknosel @julianosene @eusoubrunoqueiroz @soucircul #notrecho #minassummit
 
 ## Antes de publicar
 
